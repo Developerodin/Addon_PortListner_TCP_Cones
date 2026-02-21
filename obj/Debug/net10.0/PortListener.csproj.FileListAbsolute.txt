@@ -1,0 +1,98 @@
+C:\Users\sharm\Desktop\Port Listener\bin\Debug\net10.0\PortListener.exe
+C:\Users\sharm\Desktop\Port Listener\bin\Debug\net10.0\PortListener.deps.json
+C:\Users\sharm\Desktop\Port Listener\bin\Debug\net10.0\PortListener.runtimeconfig.json
+C:\Users\sharm\Desktop\Port Listener\bin\Debug\net10.0\PortListener.dll
+C:\Users\sharm\Desktop\Port Listener\bin\Debug\net10.0\PortListener.pdb
+C:\Users\sharm\Desktop\Port Listener\obj\Debug\net10.0\PortListener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharm\Desktop\Port Listener\obj\Debug\net10.0\PortListener.AssemblyInfoInputs.cache
+C:\Users\sharm\Desktop\Port Listener\obj\Debug\net10.0\PortListener.AssemblyInfo.cs
+C:\Users\sharm\Desktop\Port Listener\obj\Debug\net10.0\PortListener.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Desktop\Port Listener\obj\Debug\net10.0\PortListener.dll
+C:\Users\sharm\Desktop\Port Listener\obj\Debug\net10.0\refint\PortListener.dll
+C:\Users\sharm\Desktop\Port Listener\obj\Debug\net10.0\PortListener.pdb
+C:\Users\sharm\Desktop\Port Listener\obj\Debug\net10.0\PortListener.genruntimeconfig.cache
+C:\Users\sharm\Desktop\Port Listener\obj\Debug\net10.0\ref\PortListener.dll
+C:\Users\INTEL\Desktop\Port Listener\Port Listener\bin\Debug\net10.0\PortListener.exe
+C:\Users\INTEL\Desktop\Port Listener\Port Listener\bin\Debug\net10.0\PortListener.deps.json
+C:\Users\INTEL\Desktop\Port Listener\Port Listener\bin\Debug\net10.0\PortListener.runtimeconfig.json
+C:\Users\INTEL\Desktop\Port Listener\Port Listener\bin\Debug\net10.0\PortListener.dll
+C:\Users\INTEL\Desktop\Port Listener\Port Listener\bin\Debug\net10.0\PortListener.pdb
+C:\Users\INTEL\Desktop\Port Listener\Port Listener\obj\Debug\net10.0\PortListener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTEL\Desktop\Port Listener\Port Listener\obj\Debug\net10.0\PortListener.AssemblyInfoInputs.cache
+C:\Users\INTEL\Desktop\Port Listener\Port Listener\obj\Debug\net10.0\PortListener.AssemblyInfo.cs
+C:\Users\INTEL\Desktop\Port Listener\Port Listener\obj\Debug\net10.0\PortListener.csproj.CoreCompileInputs.cache
+C:\Users\INTEL\Desktop\Port Listener\Port Listener\obj\Debug\net10.0\PortListener.dll
+C:\Users\INTEL\Desktop\Port Listener\Port Listener\obj\Debug\net10.0\refint\PortListener.dll
+C:\Users\INTEL\Desktop\Port Listener\Port Listener\obj\Debug\net10.0\PortListener.pdb
+C:\Users\INTEL\Desktop\Port Listener\Port Listener\obj\Debug\net10.0\PortListener.genruntimeconfig.cache
+C:\Users\INTEL\Desktop\Port Listener\Port Listener\obj\Debug\net10.0\ref\PortListener.dll
+D:\Software\Port Listener\Port Listener\bin\Debug\net10.0\PortListener.exe
+D:\Software\Port Listener\Port Listener\bin\Debug\net10.0\PortListener.deps.json
+D:\Software\Port Listener\Port Listener\bin\Debug\net10.0\PortListener.runtimeconfig.json
+D:\Software\Port Listener\Port Listener\bin\Debug\net10.0\PortListener.dll
+D:\Software\Port Listener\Port Listener\bin\Debug\net10.0\PortListener.pdb
+D:\Software\Port Listener\Port Listener\obj\Debug\net10.0\PortListener.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\Port Listener\Port Listener\obj\Debug\net10.0\PortListener.AssemblyInfoInputs.cache
+D:\Software\Port Listener\Port Listener\obj\Debug\net10.0\PortListener.AssemblyInfo.cs
+D:\Software\Port Listener\Port Listener\obj\Debug\net10.0\PortListener.csproj.CoreCompileInputs.cache
+D:\Software\Port Listener\Port Listener\obj\Debug\net10.0\PortListener.dll
+D:\Software\Port Listener\Port Listener\obj\Debug\net10.0\refint\PortListener.dll
+D:\Software\Port Listener\Port Listener\obj\Debug\net10.0\PortListener.pdb
+D:\Software\Port Listener\Port Listener\obj\Debug\net10.0\PortListener.genruntimeconfig.cache
+D:\Software\Port Listener\Port Listener\obj\Debug\net10.0\ref\PortListener.dll
+D:\Software\Port Listener\Port Listener\bin\Debug\net10.0\data\scale_data.json
+D:\Software\Port Listener\Port Listener\bin\Debug\net10.0\PortListener.staticwebassets.endpoints.json
+D:\Software\Port Listener\Port Listener\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Software\Port Listener\Port Listener\obj\Debug\net10.0\PortListener.MvcApplicationPartsAssemblyInfo.cache
+D:\Software\Port Listener\Port Listener\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Software\Port Listener\Port Listener\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Software\Port Listener\Port Listener\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Software\Port Listener\Port Listener\obj\Debug\net10.0\scopedcss\bundle\PortListener.styles.css
+D:\Software\Port Listener\Port Listener\obj\Debug\net10.0\staticwebassets.build.json
+D:\Software\Port Listener\Port Listener\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Software\Port Listener\Port Listener\obj\Debug\net10.0\staticwebassets.development.json
+D:\Software\Port Listener\Port Listener\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Software\Port Listener\Port Listener\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\bin\Debug\net10.0\data\scale_data.json
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\bin\Debug\net10.0\PortListener.staticwebassets.endpoints.json
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\bin\Debug\net10.0\PortListener.exe
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\bin\Debug\net10.0\PortListener.deps.json
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\bin\Debug\net10.0\PortListener.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\bin\Debug\net10.0\PortListener.dll
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\bin\Debug\net10.0\PortListener.pdb
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\obj\Debug\net10.0\PortListener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\obj\Debug\net10.0\PortListener.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\obj\Debug\net10.0\PortListener.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\obj\Debug\net10.0\PortListener.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\obj\Debug\net10.0\PortListener.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\obj\Debug\net10.0\PortListener.sourcelink.json
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\obj\Debug\net10.0\scopedcss\bundle\PortListener.styles.css
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\obj\Debug\net10.0\PortListener.dll
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\obj\Debug\net10.0\refint\PortListener.dll
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\obj\Debug\net10.0\PortListener.pdb
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\obj\Debug\net10.0\PortListener.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\obj\Debug\net10.0\ref\PortListener.dll
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\bin\Debug\net10.0\publish\publish\web.config
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\bin\Debug\net10.0\publish\web.config
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\bin\Debug\net10.0\publish\data\scale_data.json
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\bin\Debug\net10.0\publish\PortListener.deps.json
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\bin\Debug\net10.0\publish\PortListener.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\bin\Debug\net10.0\publish\PortListener.staticwebassets.endpoints.json
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\bin\Debug\net10.0\publish\publish\data\scale_data.json
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\bin\Debug\net10.0\publish\publish\PortListener.deps.json
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\bin\Debug\net10.0\publish\publish\PortListener.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\bin\Debug\net10.0\publish\publish\PortListener.staticwebassets.endpoints.json
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\bin\Debug\net10.0\publish\publish\publish\web.config
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\bin\Debug\net10.0\publish\publish\publish\data\scale_data.json
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\bin\Debug\net10.0\publish\publish\publish\PortListener.deps.json
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\bin\Debug\net10.0\publish\publish\publish\PortListener.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Addon\Port_Listener\bin\Debug\net10.0\publish\publish\publish\PortListener.staticwebassets.endpoints.json
